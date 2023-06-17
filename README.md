@@ -6,6 +6,10 @@
 
 ## [HW03](./hw03.md) -- Homework 03. Ethernet technology. IP protocol. (a little bit of routing?)
 
-## [HW04](./hw04.md) -- Homework 04.Computer networcs basics. Network layer. Routing protocols. VLAN.
+## [HW04](./hw04.md) -- Homework 04. Computer networcs basics. Network layer. Routing protocols. VLAN.
 
-## [HW05](#) -- Homework 05. TBD
+## [HW05](./hw05.md) -- Homework 05. Computer networcs basics. Transport layer. UDP and TCP.
+
+## [HW06](#) -- Homework 06. TBD Computer networcs basics. Transport layer. UDP and TCP.
+
+## [HW07](#) -- Homework 07. TBD 
