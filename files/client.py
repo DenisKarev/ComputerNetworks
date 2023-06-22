@@ -4,8 +4,8 @@ import threading
 nickname = input("Enter your nickname: ")
 client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
-# addr = ('192.168.100.2', 56789)
-addr = ('gooofyy.duckdns.org', 56789)
+addr = ('158.160.113.26', 56789)
+
 
 client.connect(addr)
 # message = f"{nickname}:{input('Message to send: ')}"
