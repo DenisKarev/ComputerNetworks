@@ -1,7 +1,7 @@
 import socket
 import threading
 
-address = ('192.168.100.2', 56789)  # <<----    change your address here !!!
+address = ('10.128.0.25', 56789)  # <<----    change your address here !!!
 
 clients = []
 nicknames = []
