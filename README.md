@@ -10,6 +10,6 @@
 
 ## [HW05](./hw05.md) -- Homework 05. Computer networcs basics. Transport layer. UDP and TCP.
 
-## [HW06](#) -- Homework 06. TBD Computer networcs basics. Transport layer. UDP and TCP.
+## [HW06](./hw06.md) -- Homework 06. Computer networcs basics. Transport layer. UDP and TCP.
 
 ## [HW07](#) -- Homework 07. TBD 
