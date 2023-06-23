@@ -12,4 +12,6 @@
 
 ## [HW06](./hw06.md) -- Homework 06. Computer networcs basics. Transport layer. UDP and TCP.
 
-## [HW07](#) -- Homework 07. TBD 
+## [HW07](./hw07.md) -- Homework 07. NAT GRE (a little VPN) TBD
+
+## [HW08](#) -- Homework 08. TBD
