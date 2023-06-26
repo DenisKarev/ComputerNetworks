@@ -14,4 +14,4 @@
 
 ## [HW07](./hw07.md) -- Homework 07. NAT GRE (a little VPN? maybe).
 
-## [HW08](#) -- Homework 08. TBD
+## [HW08](./hw08.md) -- Homework 08. Basics HTTP/HTTPS and DNS
